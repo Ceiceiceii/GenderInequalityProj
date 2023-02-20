@@ -1,5 +1,7 @@
 # Introduction of the project
 
+![alt text](https://github.com/LiSiruiRay/GenderInequalityProj/blob//resources/cover.jpg?raw=true)
+
 ## Inspiration
 
 Due to confirmation bias, humans tend not to consider themselves to have gender biases. Thus, raising workers’ awareness, especially from the management level is essential. However, most of the “Gender Equality Lessons” in organizations are taken place as contextual/ boring lectures, and most workers/ managers do not take them seriously into it. **WE WILL CHANGE THIS.**  With our gaming system and NLP, the game will help the workers/managers to understand and realize if they are “secretly” holding gender discrimination ideas. Also, the interactive and gaming scenario change the “lesson” into a more “story-telling” game. 
