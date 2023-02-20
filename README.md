@@ -1,6 +1,6 @@
 # Introduction of the project
 
-![alt text](https://github.com/LiSiruiRay/GenderInequalityProj/blob//resources/cover.jpg?raw=true)
+![alt text](https://github.com/LiSiruiRay/GenderInequalityProj/blob/resources/cover.jpg?raw=true)
 
 ## Inspiration
 
