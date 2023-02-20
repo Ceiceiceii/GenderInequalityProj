@@ -16,6 +16,7 @@ We mainly developed the program in Python with Pygame library. With Decision Tre
 
 ### We first developed our idea.
 
+![alt text](https://github.com/LiSiruiRay/GenderInequalityProj/blob/main/resources/candidates1.jpg?raw=true)
 Even in the 21st century, gender discrimination still exists, particularly in the Tech field. Yet people might be tired of this old topic and might not be interested in being preached on that. Thus, aiming to provide a real feeling on the current-day discrimination in workplace, we developed a program providing a manager role for the user to decide what employee he or she wants to use. Then, we will provide a perspective from the employee, interacting with the user’s own decision and thus could cause users to ruminate on their daily lives and small thought directed to discrimination. 
 
 ### Then we designed the game flow
